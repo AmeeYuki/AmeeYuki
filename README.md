@@ -10,15 +10,15 @@ I started with HTML, CSS, and JavaScript, then leveled up with React and React N
 
 💡 Highlighted Projects:
 
-CapsuleRoomBooking.com – A capsule room booking platform designed for fast and intuitive reservations.
+CapsuleRoomBooking.com – A capsule room booking platform designed for fast and intuitive reservations. (https://github.com/SEP-490-Booking-Accomodation)
 
-Kơ-fee Coffee Brand – A stylish coffee brand website that blends youthful design with community connection.
+Kơ-fee Coffee Brand – A stylish coffee brand website that blends youthful design with community connection. (https://github.com/koffe-supply)
 
-Jewelry Store Management – A management system for jewelry shops to track products and orders effortlessly.
+Jewelry Store Management – A management system for jewelry shops to track products and orders effortlessly. (https://github.com/AmeeYuki/project-JJS-system)
 
-Koi Fish Selling App – A vibrant app for showcasing and selling premium koi fish.
+Koi Fish Selling App – A vibrant app for showcasing and selling premium koi fish. (https://github.com/koithe-shop)
 
-AI Camera Application (Current) – Front-end development for an AI-powered camera app, combining computer vision with a clean, user-friendly interface.
+AI Camera Application (Current) – Front-end development for an AI-powered camera app, combining computer vision with a clean, user-friendly interface. (Private)
 
 ✨ My mission is to keep learning, exploring emerging technologies, and delivering products that are intuitive, efficient, and emotionally engaging.
 
